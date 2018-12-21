@@ -1,2 +1,6 @@
 # too large
-20170107-061401-recipeitems.json 
+20170107-061401-recipeitems.json
+
+.ipynb_checkpoints
+__pycache__
+ 
